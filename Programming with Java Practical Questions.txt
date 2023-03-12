@@ -1,0 +1,44 @@
+LIST OF PRACTICAL QUESTIONS:
+
+1. Write a Java program to find the sum of any number of integers entered as command line arguments.
+
+2. Write a Java program to find the factorial of an integer number.
+
+3. Write a Java program to convert a binary to its equivalent decimal number.
+
+4. Write a Java program to convert a decimal to its equivalent binary number.
+
+5. Write a Java program to check if a number is prime or not, by taking the number as input from the keyboard.
+
+6. Write a Java program to search a number from the given list.
+
+7. Write a Java program to sort a list of numbers in ascending and descending order.
+
+8. Write a Java program to show working of different functions of String and StringBuffer classes like
+	setCharAt(), setLength(), append(), insert(), concat() and equals().
+
+9. Write a Java program to create a class Distance which consists of two coordinates as data members and a constructor which 
+	initializes the values of coordinates and a method which calculates the distance between two coordinates.
+
+10. Write a Java program to implement the concept of method overloading.
+
+11. Write a Java program to show the uses of static data members and static methods.
+
+12. Write a Java program to demonstrate the concept of boxing and unboxing.
+
+13. Write a Java program to implement the concept of multilevel inheritance.
+
+14. Write a Java program to create your own package and use it in your own program.
+
+15. Write a Java program to implement an interface in the program.
+
+16. Write a Java program to implement the concept of exception handling mechanism.
+
+17. Write a Java program to create your own exception and use it in the program.
+
+18. Write a Java program to read the contents of a file.
+
+19. Write a Java program to count the number of characters, words and lines in a file.
+
+20. Write a Java program to copy the contents of one file into another file.
+
